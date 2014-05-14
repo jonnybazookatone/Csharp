@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerator_Tests", "IEnumerator_Tests\IEnumerator_Tests.csproj", "{59FA8A6C-9B64-4E09-9355-D606F2496D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FA8A6C-9B64-4E09-9355-D606F2496D43}.Debug|x86.ActiveCfg = Debug|x86
+		{59FA8A6C-9B64-4E09-9355-D606F2496D43}.Debug|x86.Build.0 = Debug|x86
+		{59FA8A6C-9B64-4E09-9355-D606F2496D43}.Release|x86.ActiveCfg = Release|x86
+		{59FA8A6C-9B64-4E09-9355-D606F2496D43}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = IEnumerator_Tests\IEnumerator_Tests.csproj
+	EndGlobalSection
+EndGlobal
